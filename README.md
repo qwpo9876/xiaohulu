@@ -6,7 +6,7 @@
 
 # 青龙面板
 拉取仓库
-ql repo http://gh.301.ee/https://github.com/qwpo9876.git "" "utils" "utils"
+ql repo http://gh.301.ee/https://github.com/qwpo9876.git "" "utils" "ql|sendNotify|README|notify|untitled"
 
 # 特别声明
 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
