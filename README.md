@@ -6,7 +6,11 @@
 
 # 青龙面板
 拉取仓库
-ql repo http://gh.301.ee/https://github.com/qwpo9876.git "" "utils" "ql|sendNotify|README|notify|untitled"
+ql repo https://xiaohulu.eu.org/https:/github.com/qwpo9876/xiaohulu.git "" "utils" "ql|sendNotify|README|notify|untitled"
 
+
+https://xiaohulu.eu.org/https:/github.com/qwpo9876/xiaohulu.git
+
+ql repo https://ghproxy.com/https://github.com/wsn888/jd.git "jd_|jx_|gua_|wsn_|jdCookie" "" "^jd[^_]|jd_Cookie|magic|cleancart_activity|ZooFaker_Necklace|USER|JD|JDJR|utils|function|sign|ql|sendNotify"
 # 特别声明
 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
