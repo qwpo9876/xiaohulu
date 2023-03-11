@@ -7,7 +7,7 @@
 # 青龙面板
 ## 拉取仓库
   ``` 
-ql repo https://github.com/qwpo9876/xiaohulu.git "" "ql.js|sendNotify.js|notify.py" "ql.js|sendNotify.js|notify.py"
+ql repo https://github.com/qwpo9876/xiaohulu.git "" "ql.js|sendNotify.js|notify.py|deleat" "ql.js|sendNotify.js|notify.py|deleat"
   ```
 
 ## 其他
