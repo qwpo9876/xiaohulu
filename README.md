@@ -5,9 +5,11 @@
 
 
 # 青龙面板
-拉取仓库
-
+## 拉取仓库
+    ```json
 ql repo https://github.com/qwpo9876/xiaohulu.git "" "ql.js|sendNotify.js" "ql.js|sendNotify.js"
+   ```
+
 
 ql repo https://xiaohulu.eu.org/https://github.com/qwpo9876/xiaohulu.git "" "env.js|bot.js|sendNotify.js" "env.js|bot.js|sendNotify.js"
 
