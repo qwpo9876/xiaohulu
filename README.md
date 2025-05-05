@@ -11,7 +11,7 @@ ql repo https://github.com/qwpo9876/xiaohulu.git "" "ql.js|sendNotify.js|notify.
   ```
 
 ## 其他
-ql repo https://xiaohulu.eu.org/https://github.com/qwpo9876/xiaohulu.git "" "env.js|bot.js|sendNotify.js" "env.js|bot.js|sendNotify.js"
+ql repo https://xiaohulu1000.eu.org/https://github.com/qwpo9876/xiaohulu.git "" "env.js|bot.js|sendNotify.js" "env.js|bot.js|sendNotify.js"
 
 ql repo https://ghproxy.com/https://github.com/qwpo9876/xiaohulu.git "" "ql.js|sendNotify.js" "ql.js|sendNotify.js"
 
