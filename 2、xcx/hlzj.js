@@ -82,7 +82,7 @@ async function getUserInfo() {
     try {
         const data = await sudojia.sendRequest(`${baseUrl}/server/api/authorized-login`, 'post', headers, {
             "union_id": $.unionId,
-            "invite_user_id": "78630"
+            "invite_user_id": ""
         });
         if (200 !== data.code) {
             console.error(data.message);
